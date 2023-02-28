@@ -14,8 +14,14 @@ This project is one of my original work although i got inspiration for using tab
 #### Encrypted String Output
 ![Here we receive output after encryption.](https://github.com/kaustubha-chaturvedi/myMusicSpeaks/blob/master/img/mg.png)
 
+#### Sample Audio file
+[This is audio for output in above image](https://user-images.githubusercontent.com/78296069/221785871-ff4b2357-2398-4890-8ab2-331e4fce9a4e.webm)
+
+This is audio for output in above image
+
 #### Encrypted String Output
 ![Here we display output after decryption.](https://github.com/kaustubha-chaturvedi/myMusicSpeaks/blob/master/img/mg1.jpeg)
+
 ## Problems
 
  1. Current this is unable to encrypt special characters.
