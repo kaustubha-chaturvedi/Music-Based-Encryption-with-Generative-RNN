@@ -12,7 +12,7 @@ This project is one of my original work although i got inspiration for using tab
 ![Here we can enter text to encrypt and decrypt using simple form.](https://github.com/kaustubha-chaturvedi/myMusicSpeaks/blob/master/img/mg2.jpeg)
 
 #### Encrypted String Output
-![Here we receive output after encryption.](https://github.com/kaustubha-chaturvedi/myMusicSpeaks/blob/master/img/mg.jpeg)
+![Here we receive output after encryption.](https://github.com/kaustubha-chaturvedi/myMusicSpeaks/blob/master/img/mg.png)
 
 #### Encrypted String Output
 ![Here we display output after decryption.](https://github.com/kaustubha-chaturvedi/myMusicSpeaks/blob/master/img/mg1.jpeg)
